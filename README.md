@@ -81,7 +81,7 @@ You do not need everything installed to use this repository; you can selectively
 ### 1. Clone the repository
 
 ```bash
-git clone https://example.com/your/mide_test_projects.git
+git clone https://github.com/igor101964/mide_test_projects.git
 cd mide_test_projects
 ```
 
